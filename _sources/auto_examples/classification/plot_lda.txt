@@ -1,0 +1,27 @@
+
+
+.. _example_classification_plot_lda.py:
+
+
+====================================================================
+Normal and Shrinkage Linear Discriminant Analysis for classification
+====================================================================
+
+Shows how shrinkage improves classification.
+
+
+
+.. rst-class:: horizontal
+
+
+
+
+
+**Python source code:** :download:`plot_lda.py <plot_lda.py>`
+
+.. literalinclude:: plot_lda.py
+    :lines: 8-
+
+**Total running time of the example:**  0.00 seconds
+( 0 minutes  0.00 seconds)
+    
